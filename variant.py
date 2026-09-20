@@ -16,7 +16,7 @@ summa = float(input("Внесённая сумма "))
 
 obsh_sum = sum1 + sum2
 total = dost + obsh_sum
-total_kol = poz1_kol + poz2_kol
+total_kol = poz1_kol + poz2_kol 
 ostat = summa - total
 
 print("Заказ", zakaz)
